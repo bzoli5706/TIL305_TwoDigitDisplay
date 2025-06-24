@@ -1,0 +1,14 @@
+# Mac-specifikus fájlok
+.DS_Store
+
+# Editor backupok
+*~
+*.bak
+
+# IDE-k
+.vscode/
+.idea/
+
+# Példa: ha lenne build könyvtár
+build/
+out/
