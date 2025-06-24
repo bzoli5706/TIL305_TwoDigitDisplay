@@ -45,4 +45,4 @@ Below is a visual representation of the combined character patterns:
 
 ---
 
-Created by Zoli – shared as part of the JLCPCB Open-Source Engineers campaign.
+Created by bzoli5606 – shared as part of the JLCPCB Open-Source Engineers campaign.
