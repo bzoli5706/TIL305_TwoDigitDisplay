@@ -1,5 +1,9 @@
 # Two-Digit Display on a Single 5x7 Matrix Using Character Halves
 
+## 🎬 Demonstration Video
+
+[![Watch on YouTube](https://img.youtube.com/vi/4MkMZLAafes/hqdefault.jpg)](https://youtu.be/4MkMZLAafes)
+
 This project showcases an efficient technique for displaying two-digit decimal numbers on a single **5x7 matrix display**, such as the TIL305, with minimal hardware and logic.
 
 ## Key Idea
@@ -45,4 +49,4 @@ Below is a visual representation of the combined character patterns:
 
 ---
 
-Created by bzoli5606 – shared as part of the JLCPCB Open-Source Engineers campaign.
+Created by **bzoli5706** as part of the **JLCPCB Open-Source Engineers Program**.
